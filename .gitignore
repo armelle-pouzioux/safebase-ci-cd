@@ -217,4 +217,4 @@ backups/
 !.yarn/sdks
 !.yarn/versions
 
-.pnp.*desktop.ini
+.pnp.*
